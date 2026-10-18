@@ -1,4 +1,4 @@
-File last updated: Sunday 18 October 2026, 20:38:37 UTC
+File last updated: Sunday 18 October 2026, 22:38:37 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -8,8 +8,8 @@ ML:
 #344 (UL rank: #778) - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
 #347 (UL rank: #781) - Это программа "Сдохни или умри" - https://fnafmml.com/leaderboard/ca17dd02-3b05-4cde-81fd-dc01160f3936
 #464 (UL rank: #946) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
-#1068 (UL rank: #1716) - Oxygen Room 2/20 Mode - https://fnafmml.com/leaderboard/feafe9ce-7585-4ba5-b6a4-874509695b53
-#1093 (UL rank: #1758) - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
+#1069 (UL rank: #1717) - Oxygen Room 2/20 Mode - https://fnafmml.com/leaderboard/feafe9ce-7585-4ba5-b6a4-874509695b53
+#1094 (UL rank: #1759) - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
