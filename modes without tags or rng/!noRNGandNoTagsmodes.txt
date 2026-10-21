@@ -1,4 +1,4 @@
-Total modes with no tags and no RNG rating: 128
+Total modes with no tags and no RNG rating: 125
 -------------------------------------------------------------------------
 15/20 Mode - Night at Nuggit's - largeladygaming - https://fnafmml.com/leaderboard/40143875-a556-4307-8038-d65da3dadada
 8/20 Mode No Room Power - Five Nights at Freddy's: Combined - Ultament - https://fnafmml.com/leaderboard/30cab27f-2ee7-4cb7-991e-72c1b544b995
@@ -29,7 +29,6 @@ Black Space - Postoronnim V - Andersten - https://fnafmml.com/leaderboard/d1557c
 The Last Party - Five Nights at Freddys 4, But Cool: Remake! - Walug123 - https://fnafmml.com/leaderboard/34100fde-dbf9-440b-9776-c4d9452114ca
 All Max Mode - Five Nights at Pikachu's 2: The Escape - FreddyGamePlayer - https://fnafmml.com/leaderboard/0e8be14e-2610-46e0-9016-d48a648c3816
 The Garden - Peashooter Nights - FNAF_ pierro - https://fnafmml.com/leaderboard/50108d88-dd02-428f-9c83-8ab383f334f4
-All Active - One Week at Springtrap - KingFoxy - https://fnafmml.com/leaderboard/9bdc1f3a-91d1-422e-9405-b1887ad2aed3
 Triangle Challenge - Five Nights at Illuminy's 2 - iltizio666 - https://fnafmml.com/leaderboard/0a96523f-44a5-4197-984f-2d675e627210
 Hell Mode - One Night at Flumpty's Custom Night - The Misfits - TheYeGirl - https://fnafmml.com/leaderboard/24fa77e6-78cc-472a-9459-88edaf5780c5
 8/20 Mode - Five Nights at Freddy's: Combined - AG_AHMAD - https://fnafmml.com/leaderboard/5ad5796d-3b0f-4f24-a727-41e531cef83c
@@ -42,7 +41,6 @@ Purgatory - Ramiz & Friends: Revisualized - Lixunis - https://fnafmml.com/leader
 God Mode - 3 AM in the Living Room - Rykan - https://fnafmml.com/leaderboard/2016f89b-58e1-48df-a62b-0190721c45ad
 6/20 Mode Week 1 - Five Nights at Wario's 4 - PiracyGolem101 - https://fnafmml.com/leaderboard/4cc764f1-381a-48f1-b030-7fcb9996ff3d
 Invisible Rat Race - Nightmares Before Disney - DiceGames - https://fnafmml.com/leaderboard/5743ded3-9ff9-4b5a-ac7e-59000da51bf4
-Cameraless Challenge - One Week at Springtrap - KingFoxy - https://fnafmml.com/leaderboard/a9484375-d52f-4245-b793-f78988041b1d
 7/20 Mode - The Return to Freddy's: Winter Wonderland - Bilenko Arteam - https://fnafmml.com/leaderboard/3f72a9a9-9933-4052-b6a1-03128da5c734
 Nightmare - Baby's Nightmare Circus Extended Classic Mode - ¡JPG! Zeckker - https://fnafmml.com/leaderboard/1aa4703b-1dc0-4d3c-a66f-c182624a6f77
 Demonetize - Five Nights With Bud: Rebooted - Kosta Vesta - https://fnafmml.com/leaderboard/1725ef81-4a70-43e6-b446-dd6b74f778ce
@@ -59,7 +57,6 @@ TRUE GOODBYE - The Abandoned Factory 0: Nevermore - doggiesmoggie - https://fnaf
 The True Disparity - Unresting Disparity - MacacoPlayz - https://fnafmml.com/leaderboard/9c333293-279b-4538-ba0f-265a0161e754
 All Max 2018 - Five Nights at Wario's: Origins - PiracyGolem101 - https://fnafmml.com/leaderboard/605ca052-f43b-485f-841b-843020bf04df
 Nightmare - Fazbear's Fright Attraction - Bonnie PLAY - https://fnafmml.com/leaderboard/acdfd27c-bc29-4de2-9c6d-e650a594f2dd
-Outlast the Night - One Week at Springtrap - Голодный Фокс - https://fnafmml.com/leaderboard/d50749ee-3fec-4370-ba28-119f71c9fb73
 Alphawolf Mode - Another TRTF Remaster 4: AlphaWolf Edition - Bilenko Arteam - https://fnafmml.com/leaderboard/adf983ac-4576-4b4c-b73d-77f7e70cce66
 8/20 Mode - Another TRTF Remaster 4: AlphaWolf Edition - Bilenko Arteam - https://fnafmml.com/leaderboard/8fe66b74-c6d4-424a-94a3-165511ed7a59
 Night 7: Non-Canon Chaos - FNAF Rewritten: '87 - Guiltless0910 - https://fnafmml.com/leaderboard/1f3fb181-03c1-4197-afad-7049c37e4b7a
