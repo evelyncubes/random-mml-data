@@ -1,23 +1,22 @@
-File last updated: Tuesday 20 October 2026, 21:41:45 UTC
+File last updated: Wednesday 21 October 2026, 08:54:45 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
-#161 (UL rank: #446) - Rat and Cat All Challenges OG Laser Pointer - https://fnafmml.com/leaderboard/fb3ab11e-9731-4981-a527-0c3060d02ae7
-#173 (UL rank: #464) - Semi-Hyper 9/30 - https://fnafmml.com/leaderboard/f5ecb7a0-7eb4-4d41-8fc1-ab00938f4e99
-#182 (UL rank: #476) - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
-#320 (UL rank: #732) - 8/20 Mode - https://fnafmml.com/leaderboard/d4697c5b-4cf7-4cf7-87b0-e2bd1dfbdfc8
-#346 (UL rank: #786) - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
-#349 (UL rank: #789) - Это программа "Сдохни или умри" - https://fnafmml.com/leaderboard/ca17dd02-3b05-4cde-81fd-dc01160f3936
-#467 (UL rank: #955) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
-#1068 (UL rank: #1728) - Oxygen Room 2/20 Mode - https://fnafmml.com/leaderboard/feafe9ce-7585-4ba5-b6a4-874509695b53
-#1093 (UL rank: #1770) - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
+#161 (UL rank: #448) - Rat and Cat All Challenges OG Laser Pointer - https://fnafmml.com/leaderboard/fb3ab11e-9731-4981-a527-0c3060d02ae7
+#173 (UL rank: #466) - Semi-Hyper 9/30 - https://fnafmml.com/leaderboard/f5ecb7a0-7eb4-4d41-8fc1-ab00938f4e99
+#182 (UL rank: #478) - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
+#318 (UL rank: #733) - 8/20 Mode - https://fnafmml.com/leaderboard/d4697c5b-4cf7-4cf7-87b0-e2bd1dfbdfc8
+#343 (UL rank: #787) - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
+#346 (UL rank: #790) - Это программа "Сдохни или умри" - https://fnafmml.com/leaderboard/ca17dd02-3b05-4cde-81fd-dc01160f3936
+#464 (UL rank: #956) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
+#1066 (UL rank: #1730) - Oxygen Room 2/20 Mode - https://fnafmml.com/leaderboard/feafe9ce-7585-4ba5-b6a4-874509695b53
+#1091 (UL rank: #1772) - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
-#784 - Coolkid's Crashout - https://fnafmml.com/leaderboard/eadf78e5-7f5b-4cde-8ec4-817851969c3b
-#786 - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
-#789 - Это программа "Сдохни или умри" - https://fnafmml.com/leaderboard/ca17dd02-3b05-4cde-81fd-dc01160f3936
-#955 - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
-#1762 - 3/20 Mode - https://fnafmml.com/leaderboard/c42b7289-9efc-4b75-9e1b-1cbe4cff5466
-#1770 - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
-#1774 - Meril - https://fnafmml.com/leaderboard/d95a370b-5fd6-46f1-9bec-44153290992a
+#785 - Coolkid's Crashout - https://fnafmml.com/leaderboard/eadf78e5-7f5b-4cde-8ec4-817851969c3b
+#787 - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
+#790 - Это программа "Сдохни или умри" - https://fnafmml.com/leaderboard/ca17dd02-3b05-4cde-81fd-dc01160f3936
+#956 - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
+#1772 - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
+#1776 - Meril - https://fnafmml.com/leaderboard/d95a370b-5fd6-46f1-9bec-44153290992a
