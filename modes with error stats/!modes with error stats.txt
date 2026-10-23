@@ -1,4 +1,4 @@
-File last updated: Friday 23 October 2026, 10:07:17 UTC
+File last updated: Friday 23 October 2026, 12:06:54 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -16,7 +16,3 @@ ML:
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
-#787 - Coolkid's Crashout - https://fnafmml.com/leaderboard/eadf78e5-7f5b-4cde-8ec4-817851969c3b
-#789 - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
-#792 - Это программа "Сдохни или умри" - https://fnafmml.com/leaderboard/ca17dd02-3b05-4cde-81fd-dc01160f3936
-#959 - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
