@@ -1,4 +1,4 @@
-File last updated: Friday 30 October 2026, 19:27:52 UTC
+File last updated: Friday 30 October 2026, 21:27:55 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -15,3 +15,6 @@ ML:
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
+#482 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
+#794 - Coolkid's Crashout - https://fnafmml.com/leaderboard/eadf78e5-7f5b-4cde-8ec4-817851969c3b
+#968 - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
