@@ -1,4 +1,4 @@
-File last updated: Friday 30 October 2026, 23:26:48 UTC
+File last updated: Saturday 31 October 2026, 11:17:55 UTC
 Total modes that are missing either tags or RNG or both: 189
 -------------------------------------------------------------------------
 Total untagged modes with an RNG rating: 39
