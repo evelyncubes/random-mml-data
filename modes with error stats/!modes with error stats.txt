@@ -1,4 +1,4 @@
-File last updated: Sunday 01 November 2026, 19:51:32 UTC
+File last updated: Sunday 01 November 2026, 21:51:31 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -9,10 +9,9 @@ ML:
 #303 (UL rank: #711) - Normal 9/30 - https://fnafmml.com/leaderboard/bb26dd8b-6ec1-479e-b6d5-542089e06269
 #324 (UL rank: #742) - 8/20 Mode - https://fnafmml.com/leaderboard/d4697c5b-4cf7-4cf7-87b0-e2bd1dfbdfc8
 #350 (UL rank: #798) - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
-#474 (UL rank: #970) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
-#499 (UL rank: #1005) - Night 5 - https://fnafmml.com/leaderboard/f79bf1b8-98cd-406a-a07c-7c3bea94e848
+#500 (UL rank: #1006) - Night 5 - https://fnafmml.com/leaderboard/f79bf1b8-98cd-406a-a07c-7c3bea94e848
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
 #483 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
-#1482 - Golden Showdown - https://fnafmml.com/leaderboard/f336197e-eab1-4840-85ad-eabae9355cfa
+#1483 - Golden Showdown - https://fnafmml.com/leaderboard/f336197e-eab1-4840-85ad-eabae9355cfa
