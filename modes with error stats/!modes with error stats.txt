@@ -1,4 +1,4 @@
-File last updated: Sunday 01 November 2026, 23:51:33 UTC
+File last updated: Monday 02 November 2026, 10:16:13 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -15,4 +15,5 @@ ML:
 UL:
 -------------------------------------------------------------------------
 #483 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
+#1481 - Jeff the Killer (v1.0.1) - https://fnafmml.com/leaderboard/eafe7200-527c-482a-bf1e-039b4f7e3277
 #1483 - Golden Showdown - https://fnafmml.com/leaderboard/f336197e-eab1-4840-85ad-eabae9355cfa
