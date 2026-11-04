@@ -1,7 +1,7 @@
-File last updated: Wednesday 04 November 2026, 18:34:10 UTC
+File last updated: Wednesday 04 November 2026, 20:34:11 UTC
 Total modes that are missing either tags or RNG or both: 189
 -------------------------------------------------------------------------
-Total untagged modes with an RNG rating: 39
+Total untagged modes with an RNG rating: 40
 -------------------------------------------------------------------------
 Bitty Night - Nightmare - Virus Alert - eve - https://fnafmml.com/leaderboard/04a969b1-c20b-45df-844a-e2b9d9129f2b
 Xenon Night - Five Nights at Placeholder - addiqqq - https://fnafmml.com/leaderboard/9a0e44b0-47b4-4b44-b8e4-98194a5786e6
@@ -32,6 +32,7 @@ Full Moon - Incorrect Oddities 2.0 - Guiltless0910 - https://fnafmml.com/leaderb
 Golden Sonic Challenge (v1.03) - Five Nights at Sonic's 2 - Whitish - https://fnafmml.com/leaderboard/91436f76-734b-48e7-b77b-14702fc0bc3e
 The Complete Office (v1.1.0) - Office Custom Night - Juni - https://fnafmml.com/leaderboard/73f8970e-c0f5-4a70-9fd7-ac3e6dd0fcdf
 Night Terrors - FNaF 4 CN - barbeque - https://fnafmml.com/leaderboard/456821fd-fd1a-4749-92d5-4576e9bac100
+4/20 Mode All Plushies - A Shadow Over Freddy's - JayskiBean - https://fnafmml.com/leaderboard/24ab8f24-6aaf-46db-8078-56f2011eccbd
 The Complete Office (v1.2.0) - Office Custom Night - Juni - https://fnafmml.com/leaderboard/c2f9b791-5612-4c67-9b88-091068fdac0c
 Tubby Hell - Tubbyland: Time for Teletubbies! - frogger25 - https://fnafmml.com/leaderboard/282f349e-9dda-4d5c-8679-0bd3eee59804
 5/20 - Forgotten at Fredbears - WChips - https://fnafmml.com/leaderboard/521a871a-3049-43fb-9077-0a2dca7606c5
@@ -71,7 +72,7 @@ Hard Mode - Five Nights at Wario's: Switched in Time - Rebit - https://fnafmml.c
 5/20 Mode - Five Nights at Marcus 2 - popshatz - https://fnafmml.com/leaderboard/69544a1d-2b06-4636-9a8d-1ed657d0dc04
 Smile Dog (v1.0.1) - Oblitus Casa - Nephryte - https://fnafmml.com/leaderboard/a8de588b-7a7a-4c4d-a0bb-1bc1f8afd611
 -------------------------------------------------------------------------
-Total modes with no tags and no RNG rating: 125
+Total modes with no tags and no RNG rating: 124
 -------------------------------------------------------------------------
 15/20 Mode - Night at Nuggit's - largeladygaming - https://fnafmml.com/leaderboard/40143875-a556-4307-8038-d65da3dadada
 8/20 Mode No Room Power - Five Nights at Freddy's: Combined - Ultament - https://fnafmml.com/leaderboard/30cab27f-2ee7-4cb7-991e-72c1b544b995
@@ -169,7 +170,6 @@ All Max - Andrew's House of Horrors - Diolun - https://fnafmml.com/leaderboard/6
 Night 8 - The Return to Freddy's 3 - IULITMx - https://fnafmml.com/leaderboard/9740e57b-99ac-4041-9ea1-8aad6c337645
 Night 6 - FNaC 3: Alternate Dimension - DiamondAce - https://fnafmml.com/leaderboard/cd740fd8-7caf-4c86-a9b3-8e45f5793739
 20/20 Mode - Treasure Island Custom Night - Shareye - https://fnafmml.com/leaderboard/11d236f8-48fc-4097-a3c0-c3e406efde52
-4/20 Mode All Plushies - A Shadow Over Freddy's - JayskiBean - https://fnafmml.com/leaderboard/24ab8f24-6aaf-46db-8078-56f2011eccbd
 Nightmare Test - The Abandoned Factory 0: Nevermore - doggiesmoggie - https://fnafmml.com/leaderboard/ea24cdcf-0d9d-4eef-8779-63240734bc69
 My Turn / M A R I O round - The Abandoned Factory 0: Nevermore - doggiesmoggie - https://fnafmml.com/leaderboard/b281c839-4cf1-4143-b352-870a3b1da8ca
 Non-Canon Chaos - FNAF 1 -REWRITTEN- - Lisius - https://fnafmml.com/leaderboard/02081500-1cee-45b0-97fa-aa24b883faf6

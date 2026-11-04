@@ -1,4 +1,4 @@
-Total modes with no tags and no RNG rating: 125
+Total modes with no tags and no RNG rating: 124
 -------------------------------------------------------------------------
 15/20 Mode - Night at Nuggit's - largeladygaming - https://fnafmml.com/leaderboard/40143875-a556-4307-8038-d65da3dadada
 8/20 Mode No Room Power - Five Nights at Freddy's: Combined - Ultament - https://fnafmml.com/leaderboard/30cab27f-2ee7-4cb7-991e-72c1b544b995
@@ -96,7 +96,6 @@ All Max - Andrew's House of Horrors - Diolun - https://fnafmml.com/leaderboard/6
 Night 8 - The Return to Freddy's 3 - IULITMx - https://fnafmml.com/leaderboard/9740e57b-99ac-4041-9ea1-8aad6c337645
 Night 6 - FNaC 3: Alternate Dimension - DiamondAce - https://fnafmml.com/leaderboard/cd740fd8-7caf-4c86-a9b3-8e45f5793739
 20/20 Mode - Treasure Island Custom Night - Shareye - https://fnafmml.com/leaderboard/11d236f8-48fc-4097-a3c0-c3e406efde52
-4/20 Mode All Plushies - A Shadow Over Freddy's - JayskiBean - https://fnafmml.com/leaderboard/24ab8f24-6aaf-46db-8078-56f2011eccbd
 Nightmare Test - The Abandoned Factory 0: Nevermore - doggiesmoggie - https://fnafmml.com/leaderboard/ea24cdcf-0d9d-4eef-8779-63240734bc69
 My Turn / M A R I O round - The Abandoned Factory 0: Nevermore - doggiesmoggie - https://fnafmml.com/leaderboard/b281c839-4cf1-4143-b352-870a3b1da8ca
 Non-Canon Chaos - FNAF 1 -REWRITTEN- - Lisius - https://fnafmml.com/leaderboard/02081500-1cee-45b0-97fa-aa24b883faf6
