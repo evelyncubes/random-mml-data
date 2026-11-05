@@ -1,4 +1,4 @@
-File last updated: Thursday 05 November 2026, 14:21:47 UTC
+File last updated: Thursday 05 November 2026, 15:56:22 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -16,4 +16,5 @@ UL:
 #482 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
 #1481 - Jeff the Killer (v1.0.1) - https://fnafmml.com/leaderboard/eafe7200-527c-482a-bf1e-039b4f7e3277
 #1483 - Golden Showdown - https://fnafmml.com/leaderboard/f336197e-eab1-4840-85ad-eabae9355cfa
+#1496 - Night 6 Deathless - https://fnafmml.com/leaderboard/df5f8a3b-bc77-4a21-b6e4-33c44f8a872f
 #1497 - Final Day Deathless - https://fnafmml.com/leaderboard/e3d228f1-41f8-4c80-8736-d1b2c888e571
