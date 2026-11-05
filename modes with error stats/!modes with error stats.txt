@@ -1,4 +1,4 @@
-File last updated: Thursday 05 November 2026, 19:56:42 UTC
+File last updated: Thursday 05 November 2026, 21:56:41 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -8,13 +8,9 @@ ML:
 #183 (UL rank: #482) - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
 #303 (UL rank: #709) - Normal 9/30 - https://fnafmml.com/leaderboard/bb26dd8b-6ec1-479e-b6d5-542089e06269
 #325 (UL rank: #741) - 8/20 Mode - https://fnafmml.com/leaderboard/d4697c5b-4cf7-4cf7-87b0-e2bd1dfbdfc8
-#476 (UL rank: #970) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
-#500 (UL rank: #1005) - Night 5 - https://fnafmml.com/leaderboard/f79bf1b8-98cd-406a-a07c-7c3bea94e848
+#476 (UL rank: #971) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
+#500 (UL rank: #1006) - Night 5 - https://fnafmml.com/leaderboard/f79bf1b8-98cd-406a-a07c-7c3bea94e848
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
 #482 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
-#1481 - Jeff the Killer (v1.0.1) - https://fnafmml.com/leaderboard/eafe7200-527c-482a-bf1e-039b4f7e3277
-#1483 - Golden Showdown - https://fnafmml.com/leaderboard/f336197e-eab1-4840-85ad-eabae9355cfa
-#1496 - Night 6 Deathless - https://fnafmml.com/leaderboard/df5f8a3b-bc77-4a21-b6e4-33c44f8a872f
-#1497 - Final Day Deathless - https://fnafmml.com/leaderboard/e3d228f1-41f8-4c80-8736-d1b2c888e571
