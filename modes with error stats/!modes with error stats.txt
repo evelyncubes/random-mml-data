@@ -1,4 +1,4 @@
-File last updated: Saturday 07 November 2026, 15:15:06 UTC
+File last updated: Saturday 07 November 2026, 17:14:50 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -13,6 +13,7 @@ ML:
 #378 (UL rank: #837) - 40/20 Encore Mode - https://fnafmml.com/leaderboard/c4d3813a-7f9b-444d-88d5-0115a81c468e
 #388 (UL rank: #848) - S.O.S - https://fnafmml.com/leaderboard/d626e8bc-6332-4d89-897e-1d39190fa01b
 #390 (UL rank: #853) - Television Turmoil - https://fnafmml.com/leaderboard/ea142880-6f37-43ab-92a5-f8338f7e1ce8
+#478 (UL rank: #974) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
