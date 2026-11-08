@@ -1,4 +1,4 @@
-File last updated: Sunday 08 November 2026, 14:46:07 UTC
+File last updated: Sunday 08 November 2026, 16:46:05 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -18,3 +18,4 @@ ML:
 UL:
 -------------------------------------------------------------------------
 #484 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
+#1488 - Golden Showdown - https://fnafmml.com/leaderboard/f336197e-eab1-4840-85ad-eabae9355cfa
