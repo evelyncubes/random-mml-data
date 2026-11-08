@@ -1,4 +1,4 @@
-File last updated: Sunday 08 November 2026, 01:14:50 UTC
+File last updated: Sunday 08 November 2026, 10:46:38 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -8,12 +8,7 @@ ML:
 #184 (UL rank: #484) - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
 #194 (UL rank: #502) - The Dreamscape All Challenges - https://fnafmml.com/leaderboard/cf74824e-a152-427e-a031-b1723256df57
 #327 (UL rank: #744) - 8/20 Mode - https://fnafmml.com/leaderboard/d4697c5b-4cf7-4cf7-87b0-e2bd1dfbdfc8
-#353 (UL rank: #800) - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
-#356 (UL rank: #803) - Это программа "Сдохни или умри" - https://fnafmml.com/leaderboard/ca17dd02-3b05-4cde-81fd-dc01160f3936
-#378 (UL rank: #837) - 40/20 Encore Mode - https://fnafmml.com/leaderboard/c4d3813a-7f9b-444d-88d5-0115a81c468e
-#388 (UL rank: #848) - S.O.S - https://fnafmml.com/leaderboard/d626e8bc-6332-4d89-897e-1d39190fa01b
-#390 (UL rank: #853) - Television Turmoil - https://fnafmml.com/leaderboard/ea142880-6f37-43ab-92a5-f8338f7e1ce8
-#478 (UL rank: #974) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
+#400 (UL rank: #870) - Hard mode - https://fnafmml.com/leaderboard/1acd99ab-7807-49c4-a150-d0559a711792
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
