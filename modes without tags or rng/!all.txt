@@ -1,11 +1,12 @@
-File last updated: Sunday 08 November 2026, 16:44:46 UTC
+File last updated: Sunday 08 November 2026, 18:44:46 UTC
 Total modes that are missing either tags or RNG or both: 189
 -------------------------------------------------------------------------
-Total untagged modes with an RNG rating: 40
+Total untagged modes with an RNG rating: 41
 -------------------------------------------------------------------------
 Bitty Night - Nightmare - Virus Alert - eve - https://fnafmml.com/leaderboard/04a969b1-c20b-45df-844a-e2b9d9129f2b
 Xenon Night - Five Nights at Placeholder - addiqqq - https://fnafmml.com/leaderboard/9a0e44b0-47b4-4b44-b8e4-98194a5786e6
 Feline Purgatory - Five Nights at What - dogwhoisrayze - https://fnafmml.com/leaderboard/e66bc844-ef6f-478b-ba85-f4e6c8f5b687
+15/20 Mode - Night at Nuggit's - largeladygaming - https://fnafmml.com/leaderboard/40143875-a556-4307-8038-d65da3dadada
 Last Farewell - ULTRA MASTER NIGHT - Jmstr - https://fnafmml.com/leaderboard/84ef7783-92e4-4af8-8c9b-89574c229637
 Evil Larry - A Subpar Shift At Larry's - trandom82 - https://fnafmml.com/leaderboard/ee6ebe8c-46d4-49c2-8447-969ce977c484
 Golden Freddy - Sister Location Custom Night Ultimate - Creee8Or - https://fnafmml.com/leaderboard/30ab2659-b264-4b2f-a853-bd56c199483b
@@ -72,9 +73,8 @@ Hard Mode - Five Nights at Wario's: Switched in Time - Rebit - https://fnafmml.c
 5/20 Mode - Five Nights at Marcus 2 - popshatz - https://fnafmml.com/leaderboard/69544a1d-2b06-4636-9a8d-1ed657d0dc04
 Smile Dog (v1.0.1) - Oblitus Casa - Nephryte - https://fnafmml.com/leaderboard/a8de588b-7a7a-4c4d-a0bb-1bc1f8afd611
 -------------------------------------------------------------------------
-Total modes with no tags and no RNG rating: 124
+Total modes with no tags and no RNG rating: 123
 -------------------------------------------------------------------------
-15/20 Mode - Night at Nuggit's - largeladygaming - https://fnafmml.com/leaderboard/40143875-a556-4307-8038-d65da3dadada
 8/20 Mode No Room Power - Five Nights at Freddy's: Combined - Ultament - https://fnafmml.com/leaderboard/30cab27f-2ee7-4cb7-991e-72c1b544b995
 18/20 Mode - Francisco's Ultimate Custom Night [Remake] - betadipsygipsy - https://fnafmml.com/leaderboard/8ba762de-5951-4634-99f7-9c526fd6875f
 Jesse's Challenge - Night Shift at the Hell Hotel - Techy25 - https://fnafmml.com/leaderboard/54de8372-fd59-4266-b82f-5891c2e79936
