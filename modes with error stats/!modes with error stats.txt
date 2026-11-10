@@ -1,4 +1,4 @@
-File last updated: Tuesday 10 November 2026, 19:50:34 UTC
+File last updated: Tuesday 10 November 2026, 21:50:40 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -10,10 +10,12 @@ ML:
 #381 (UL rank: #841) - 40/20 Encore Mode - https://fnafmml.com/leaderboard/c4d3813a-7f9b-444d-88d5-0115a81c468e
 #391 (UL rank: #852) - S.O.S - https://fnafmml.com/leaderboard/d626e8bc-6332-4d89-897e-1d39190fa01b
 #393 (UL rank: #857) - Television Turmoil - https://fnafmml.com/leaderboard/ea142880-6f37-43ab-92a5-f8338f7e1ce8
+#481 (UL rank: #978) - 100% - https://fnafmml.com/leaderboard/e895057d-2855-45b9-94be-97d2c7e5abd9
 #855 (UL rank: #1448) - Reverse All-Out Theater - https://fnafmml.com/leaderboard/f4af68cb-d3b0-4ab4-88e6-42e8101e8e5c
 #1120 (UL rank: #1810) - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
 #485 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
-#1809 - Investigation (Remastered) - https://fnafmml.com/leaderboard/192e2762-fc0e-4387-8237-edcd2af67605
+#1810 - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
+#1814 - Meril - https://fnafmml.com/leaderboard/d95a370b-5fd6-46f1-9bec-44153290992a
