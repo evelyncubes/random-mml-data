@@ -1,10 +1,11 @@
-File last updated: Friday 13 November 2026, 22:12:21 UTC
+File last updated: Saturday 14 November 2026, 00:12:20 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
 #165 (UL rank: #456) - Rat and Cat All Challenges OG Laser Pointer - https://fnafmml.com/leaderboard/fb3ab11e-9731-4981-a527-0c3060d02ae7
 #177 (UL rank: #475) - Semi-Hyper 9/30 - https://fnafmml.com/leaderboard/f5ecb7a0-7eb4-4d41-8fc1-ab00938f4e99
 #186 (UL rank: #487) - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
+#334 (UL rank: #752) - 8/20 Mode - https://fnafmml.com/leaderboard/d4697c5b-4cf7-4cf7-87b0-e2bd1dfbdfc8
 #360 (UL rank: #809) - Calamitosum Finem All Modes - https://fnafmml.com/leaderboard/e8a3c727-968c-4f31-97c2-2ee11f5cded0
 #363 (UL rank: #812) - Это программа "Сдохни или умри" - https://fnafmml.com/leaderboard/ca17dd02-3b05-4cde-81fd-dc01160f3936
 #384 (UL rank: #845) - 40/20 Encore Mode - https://fnafmml.com/leaderboard/c4d3813a-7f9b-444d-88d5-0115a81c468e
@@ -19,6 +20,7 @@ ML:
 UL:
 -------------------------------------------------------------------------
 #487 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
+#1019 - Night 5 - https://fnafmml.com/leaderboard/f79bf1b8-98cd-406a-a07c-7c3bea94e848
 #1813 - 3/20 Mode - https://fnafmml.com/leaderboard/c42b7289-9efc-4b75-9e1b-1cbe4cff5466
 #1821 - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
 #1825 - Meril - https://fnafmml.com/leaderboard/d95a370b-5fd6-46f1-9bec-44153290992a
