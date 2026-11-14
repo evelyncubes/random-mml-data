@@ -1,4 +1,4 @@
-File last updated: Saturday 14 November 2026, 00:12:20 UTC
+File last updated: Saturday 14 November 2026, 11:13:56 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -20,7 +20,6 @@ ML:
 UL:
 -------------------------------------------------------------------------
 #487 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
-#1019 - Night 5 - https://fnafmml.com/leaderboard/f79bf1b8-98cd-406a-a07c-7c3bea94e848
 #1813 - 3/20 Mode - https://fnafmml.com/leaderboard/c42b7289-9efc-4b75-9e1b-1cbe4cff5466
 #1821 - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
 #1825 - Meril - https://fnafmml.com/leaderboard/d95a370b-5fd6-46f1-9bec-44153290992a
