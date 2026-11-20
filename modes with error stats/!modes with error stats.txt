@@ -1,4 +1,4 @@
-File last updated: Thursday 19 November 2026, 23:35:30 UTC
+File last updated: Friday 20 November 2026, 10:31:46 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -11,9 +11,9 @@ ML:
 #384 (UL rank: #845) - 40/20 Encore Mode - https://fnafmml.com/leaderboard/c4d3813a-7f9b-444d-88d5-0115a81c468e
 #394 (UL rank: #856) - S.O.S - https://fnafmml.com/leaderboard/d626e8bc-6332-4d89-897e-1d39190fa01b
 #396 (UL rank: #861) - Television Turmoil - https://fnafmml.com/leaderboard/ea142880-6f37-43ab-92a5-f8338f7e1ce8
-#1112 (UL rank: #1791) - Oxygen Room 2/20 Mode - https://fnafmml.com/leaderboard/feafe9ce-7585-4ba5-b6a4-874509695b53
-#1132 (UL rank: #1825) - 3/20 Mode - https://fnafmml.com/leaderboard/c42b7289-9efc-4b75-9e1b-1cbe4cff5466
-#1136 (UL rank: #1832) - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
+#1113 (UL rank: #1792) - Oxygen Room 2/20 Mode - https://fnafmml.com/leaderboard/feafe9ce-7585-4ba5-b6a4-874509695b53
+#1133 (UL rank: #1826) - 3/20 Mode - https://fnafmml.com/leaderboard/c42b7289-9efc-4b75-9e1b-1cbe4cff5466
+#1137 (UL rank: #1833) - Investigation - https://fnafmml.com/leaderboard/ff62b0a8-a2b4-4d3d-b7a2-927ae9173758
 -------------------------------------------------------------------------
 UL:
 -------------------------------------------------------------------------
