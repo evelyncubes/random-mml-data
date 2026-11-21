@@ -1,4 +1,4 @@
-File last updated: Saturday 21 November 2026, 19:07:17 UTC
+File last updated: Saturday 21 November 2026, 21:08:00 UTC
 -------------------------------------------------------------------------
 ML:
 -------------------------------------------------------------------------
@@ -21,5 +21,5 @@ ML:
 UL:
 -------------------------------------------------------------------------
 #488 - 14/22 Mode - https://fnafmml.com/leaderboard/ff1e6a16-7039-48b7-aa37-090cfed6f22c
-#1021 - Quest for Elmer (No Power Switch) - https://fnafmml.com/leaderboard/0687fe12-a39d-4f57-854e-f7180719a3dc
 #1022 - Quest for Elmer - https://fnafmml.com/leaderboard/ef268c39-7768-4e57-9b69-6069dae29f20
+#1026 - Night 5 - https://fnafmml.com/leaderboard/f79bf1b8-98cd-406a-a07c-7c3bea94e848
